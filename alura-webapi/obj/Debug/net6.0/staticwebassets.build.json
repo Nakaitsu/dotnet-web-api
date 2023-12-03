@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "bqLzEPgGcEENxwENpZnP0BIF+hKy4GFPhin3RPu3iis=",
+  "Source": "alura-webapi",
+  "BasePath": "_content/alura-webapi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
